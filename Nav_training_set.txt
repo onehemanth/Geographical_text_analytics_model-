@@ -1,0 +1,32 @@
+I'm planning a trip from San Francisco to New York City. The starting point is 123 Main Street, San Francisco, CA, and the destination is 456 Broadway Avenue, New York, NY.
+I need directions from Los Angeles International Airport (LAX) to the Golden Gate Bridge in San Francisco. The airport is located at 1 World Way, Los Angeles, CA, and the bridge is at Golden Gate Bridge, San Francisco, CA.
+Can you provide the latitude and longitude for the starting point of 789 Elm Street, Seattle, WA? The destination is 321 Oak Avenue, Portland, OR.
+I'm looking for directions from Times Square, New York, to the Statue of Liberty. The starting point is Broadway, New York, NY, and the destination is Liberty Island, New York, NY.
+I need the coordinates for my trip from Miami to Key West. The starting point is 987 Ocean Drive, Miami Beach, FL, and the destination is 123 Duval Street, Key West, FL.
+Can you help me find the latitude and longitude for 555 Pine Street, Chicago, IL? I want to plan a trip from there to 999 Oak Avenue, Detroit, MI.
+I'm going on a road trip from Vancouver, Canada, to Los Angeles, California. The starting point is 111 Main Street, Vancouver, BC, and the destination is 222 Broadway Avenue, Los Angeles, CA.
+I'm at my house at 123 Main Street in San Francisco and I want to go to the Golden Gate Bridge.
+I'm at the San Francisco Airport and I need to get to the Willis Tower in Chicago.
+I'm at the train station in London and I'm going to the Buckingham Palace.
+I'm planning a trip from Mumbai to Delhi. The starting point is HMPL Surya Nagar, Vikhroli West, Mumbai, Maharashtra, and the destination is Jawala Nagar, Shahdara, Delhi.
+Can you provide the latitude and longitude for the starting point of Rudrappa Garden, Jayaraj Nagar, Neelasandra, Bengaluru, Karnataka 560047? The destination is 321 Oak Avenue, Chennai, Tamil Nadu.
+I'm looking for directions from Kolkata Airport to the Victoria Memorial in Kolkata. The starting point is Kolkata Airport, Dum Dum, Kolkata, West Bengal, and the destination is Victoria Memorial, Maidan, Kolkata, West Bengal.
+I need the coordinates for my trip from Jaipur to Udaipur. The starting point is D-112, Ram Mandir Rd, Sen Colony, Bani Park, Jaipur, Rajasthan and the destination is University Rd, Ganapati Nagar, Udaipur, Rajasthan
+Can you help me find the latitude and longitude for 1-59/37/33/1, Raja Ram Colony, Madhava Nagar Colony, Ambedkar Nagar, Hafeezpet, Hyderabad, Telangana 500049? I want to plan a trip from there to Srinivasa Nagar, Madhurawada, Visakhapatnam, Andhra Pradesh.
+I'm going on a road trip from Ahmedabad to Mumbai. The starting point is Thakkarbapanagar, Ahmedabad, Gujarat, and the destination is Bandra , Mumbai, Maharashtra.
+I'm planning a trip from Chennai to Bengaluru. The starting point is Chennai Central Railway Station, Tamil Nadu, and the destination is Kempegowda International Airport, Bengaluru, Karnataka.
+I'm looking for directions from Howrah Station, Kolkata, West Bengal to Hawa Mahal, Jaipur, Rajasthan.
+I need the coordinates for my trip from Marine Drive, Kochi, Kerala to Meenakshi Amman Temple, Madurai, Tamil Nadu.
+Can you help me find the latitude and longitude for Lalbagh Botanical Garden, Bengaluru, Karnataka? I want to plan a trip from there to Mysore Palace, Mysuru, Karnataka.
+I'm going on a road trip from India Gate, New Delhi to Amber Fort, Jaipur, Rajasthan.
+I'm starting from my house at Plot No. 3, Pocket, 7, Sector 22, Rohini, New Delhi, Delhi 110085.
+I'm at the Indira Gandhi International Airport in New Delhi and I need to get to the Taj Mahal.
+I'm at the Gateway of India in Mumbai and I'm going to the Chhatrapati Shivaji Maharaj Terminus.
+I'm meeting my friends at the Golden Temple in Amritsar and then we're going to the Wagah Border.
+I'm planning a road trip from Chennai to Bengaluru. The starting point is Olympia Park Residence, Chitra Nagar, Kotturpuram, Chennai, Tamil Nadu, and the destination is Vidyaranyapura, Bengaluru, Karnataka.
+Can you provide the latitude and longitude for the starting point of Sriramnagar, Samarlakota, Andhra Pradesh 533440? I want to travel from there Khese Park, Lohegaon, Pune, Maharashtra.
+I need directions from Kolkata Airport to Victoria Memorial in Kolkata. The starting point is Kolkata Airport, Dum Dum, West Bengal, and the destination is Victoria Memorial, Maidan, Kolkata, West Bengal.
+I'm looking for the coordinates of my hotel in Jaipur. The address is Panchyawala, Jaipur, Rajasthan. I want to plan a trip from there to 123 Duval Street, Udaipur, Rajasthan.
+Can you help me find the latitude and longitude for Andhra University South Campus, Andhra University, Visakhapatnam, Andhra Pradesh? I'm planning to visit Andhra University, Visakhapatnam, Andhra Pradesh.
+I'm going on a road trip from Ahmedabad to Mumbai. The starting point is Karmchari Nagar, Ahmedabad, Gujarat, and the destination is Eksar, Borivali, Mumbai, Maharashtra.
+I'm currently in Delhi and need directions to the Taj Mahal in Agra. Can you provide the route from Rajiv Chowk Metro Station, Delhi, to Taj Mahal, Agra, Uttar Pradesh?
